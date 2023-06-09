@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="CSS3.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+ 
+  <g
+     id="g7">
+    <title
+       id="title2">Layer 1</title>
+    <path
+       id="svg_1"
+       d="m71.357,460.819l-41.085,-460.819l451.456,0l-41.129,460.746l-184.875,51.254l-184.367,-51.181z"
+       fill="#FFF" />
+    <path
+       id="svg_3"
+       fill="#212529" d="m 112.68164,94.197266 5.13672,56.517574 h 136.1875 0.39453 79.24414 l -5.14453,57.875 h -74.09961 -0.39453 -131.14648 l 5.0664,56.51758 h 126.08008 0.39453 69.19922 l -6.56055,73.29883 -62.99218,17.00195 -62.83985,-16.96679 -4.02148,-45.07618 h -56.73633 l 7.91797,88.74219 115.63867,32.10156 v 0.01 l 0.0176,-0.006 0.11718,0.0332 0.25977,-0.0723 115.46875,-32.06641 0.84961,-9.54883 13.2793,-148.79297 1.38086,-15.17578 10.20312,-114.392574 H 254.40039 Z"
+    />
+  </g>
+</svg>
